@@ -1,6 +1,9 @@
 0.4 (unreleased)
 ----------------
 
+- Update the repo to standards.  See
+  https://github.com/Pylons/pyramid_chameleon/issues/22
+
 - Remove support for Python 2.6 and 3.2.
 
 - Add support for PyPy3.
